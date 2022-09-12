@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FarceBook/static/css/main.7645cedf.css",
+    "main.js": "/FarceBook/static/js/main.a6850c0b.js",
+    "static/js/787.fabed10a.chunk.js": "/FarceBook/static/js/787.fabed10a.chunk.js",
+    "static/media/logo.svg": "/FarceBook/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/FarceBook/index.html",
+    "main.7645cedf.css.map": "/FarceBook/static/css/main.7645cedf.css.map",
+    "main.a6850c0b.js.map": "/FarceBook/static/js/main.a6850c0b.js.map",
+    "787.fabed10a.chunk.js.map": "/FarceBook/static/js/787.fabed10a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7645cedf.css",
+    "static/js/main.a6850c0b.js"
+  ]
+}
